@@ -5,3 +5,10 @@ dog
 cat
 elephant
 tiger
+The animals above were added by Chuol
+Please add yours below followig:
+1.git clone first
+2.echo add the names of your animals here>>animals.txt
+3.git add animals.txt
+4.git commit -mI just added my favorite animals
+5.git push origin main
